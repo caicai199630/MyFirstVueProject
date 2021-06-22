@@ -89,8 +89,6 @@ export default {
       this.getHomeGoods('pop');
       this.getHomeGoods('new');
       this.getHomeGoods('sell');
-
-
     },
   mounted() {
 
